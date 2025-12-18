@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.sidebar {
+    background-color: #ffffff;
+    min-height: 100vh;
+    border-right: 1px solid #ddd;
+    padding: 15px;
+}
+
+.nav-link {
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+.card {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    border: none;
+}
+
+.sidebar.collapsed {
+    width: 70px;
+}
+
+.sidebar.collapsed .nav-link {
+    text-align: center;
+    font-size: 0;
+}
+
+.sidebar.collapsed .nav-link i {
+    font-size: 20px;
+}
+.navbar {
+    background-color: #1f2937 !important;
+}
+
+.nav-link.active {
+    background-color: #e0f2fe;
+    color: #0369a1;
+}
