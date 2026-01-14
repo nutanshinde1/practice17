@@ -7,7 +7,7 @@ A frontend web dashboard designed for college authorities to monitor student int
 - Dashboard summary metrics 
 - Student intern monitoring (view-only)
 - Reports & downloads UI
-- Internship opportunities & events
+- Internship opportunities & events 
 - Responsive multi-page layout 
 - Collapsible sidebar navigation
 
