@@ -3,7 +3,7 @@
 ## Overview
 A frontend web dashboard designed for college authorities to monitor student internship progress.
 
-## Features
+## Features 
 - Dashboard summary metrics  
 - Student intern monitoring (view-only)
 - Reports & downloads UI
