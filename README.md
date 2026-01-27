@@ -1,4 +1,4 @@
-# College Internship Monitoring Dashboard
+# College Internship Monitoring Dashboard 
 
 ## Overview 
 A frontend web dashboard designed for college authorities to monitor student internship progress.
